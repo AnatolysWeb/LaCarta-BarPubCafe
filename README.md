@@ -1,5 +1,4 @@
-# Prototype-LenguajesIII
-"Sera usado para sencillo Forntend y Backend, Ciencia de datos"
+# Prototype FRONTEND/BACKEND
 
 LINK: https://anatolysweb.github.io/LaCarta-BarPubCafe/
 
